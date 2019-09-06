@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { IconButton, AppBar, Toolbar, Drawer } from "@material-ui/core";
 import { withStyles } from "@material-ui/core/styles";
 
-import { Search, Add } from "@material-ui/icons";
+import { Add } from "@material-ui/icons";
 import MenuIcon from "@material-ui/icons/Menu";
 import "./App.css";
 import "./SideBar.css";
@@ -285,6 +285,7 @@ class Dashboard extends Component {
               onClick={this.handleClose}
               variant="contained"
               color="primary"
+              style={{ backgroundColor: "#e71d36", color: "#ffffff" }}
             >
               Done
             </Button>
@@ -344,7 +345,7 @@ class Dashboard extends Component {
                 variant="contained"
                 color="primary"
                 onClick={this.handleAnsOpen}
-                style={this.state.isAnswerable ? {} : { display: "none" }}
+                style={this.state.isAnswerable ? {backgroundColor: "#e71d36", color: "#ffffff"} : { display: "none" }}
               >
                 Answer this question
               </Button>

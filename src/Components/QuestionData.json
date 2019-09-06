@@ -1,25 +1,25 @@
 [
   {
-    "question": "If I have an isosceles triangle, what do I do with my other triangles?",
-    "desc": "I would prefer an instructor answer.",
+    "question": "Please explain the analogy the professor used in class.",
+    "desc": "I fell asleep and I missed out on the rest of the explanation",
     "upvotes": 7,
     "time": 0
   },
   {
-    "question": "What do I need to learn how to add?",
-    "desc": "I've been trying for weeks now!!!",
+    "question": "What calculator should we use for this class?",
+    "desc": "Is the one on my phone fine?",
     "upvotes": 10,
     "time": 1
   },
   {
     "question": "Why is the pythagorean theorem useful? When would we use it?",
-    "desc": "I get that if we know the lengths of two sides of a right angled triangle, we can find the length of the third side. (But remember it only works on right angled triangles!). But when would we actually use it? ",
+    "desc": "I get that if we know the lengths of two sides of a right angled triangle, we can find the length of the third side. (But remember it only works on right angled triangles!). But when would we actually use it?",
     "upvotes": 13,
     "time": 2
   },
   {
-    "question": "What was the percentage of increase for Q6 in the exam?",
-    "desc": "My parents run a warehouse, so we would really appreciate an answer to this question.",
+    "question": "Could someone explain question 5 from the exam?",
+    "desc": "I didn't understand how to find the area of the square from the two triangles.",
     "upvotes": 7,
     "time": 3
   }
