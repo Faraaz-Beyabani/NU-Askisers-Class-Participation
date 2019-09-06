@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Askisers-Class-Participation/precache-manifest.5ab79c2c758a68a04cc90277265a3ad7.js"
+  "/NU-Askisers-Class-Participation/precache-manifest.07bd51e6b5cae04c748dbcbf606fc273.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Askisers-Class-Participation/index.html", {
+workbox.routing.registerNavigationRoute("/NU-Askisers-Class-Participation/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
