@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Visit the site [here](https://faraaz-beyabani.github.io/NU-Askisers-Class-Participation/).
+
 ## Available Scripts
 
 In the project directory, you can run:
